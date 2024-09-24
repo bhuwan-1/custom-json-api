@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "John Doe pt3",
+      "name": "John Doe test without build",
       "email": "john.doe@example.com"
     },
     {
